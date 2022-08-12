@@ -1,0 +1,16 @@
+{
+    "name": "dorn/blog",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey Dorn",
+            "email": "dornnsergey@gmail.com"
+        }
+    ],
+    "require": {}
+}
